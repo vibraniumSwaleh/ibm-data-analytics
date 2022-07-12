@@ -1,4 +1,4 @@
-# ibm-data-analytics
+# Data Analytics
 
 ## Jupyter notebook
 Analyzing Historical Stock/Revenue Data and Building a Dashboard
